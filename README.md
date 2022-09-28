@@ -1,4 +1,4 @@
-# Machine Learning Lesson - Naive Bayes
+# Machine Learning Lesson
 
 Name: Moch. Yusuf Hermawan<br>
 NIM: 2241727020<br>
